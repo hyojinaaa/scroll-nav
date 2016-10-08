@@ -1,0 +1,31 @@
+body {
+	margin: 0;
+}
+
+nav {
+	background-color: transparent;
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+ul {
+	list-style: none;
+	display: flex;
+	justify-content: space-between;
+	padding: 20px 60px;
+}
+
+li {
+	font-size: 30px;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+div {
+	margin: 60px;
+	margin-top: 120px;
+}
