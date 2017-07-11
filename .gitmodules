@@ -1,0 +1,3 @@
+[submodule "scroll-nav/submodule-test"]
+	path = scroll-nav/submodule-test
+	url = https://github.com/hyojinaaa/scroll-nav
